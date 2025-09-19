@@ -14,6 +14,4 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com
-[instagram]: https://www.instagram.com
 [linkedin]: https://www.linkedin.com/in/jorge-tamayo-236b91374/
