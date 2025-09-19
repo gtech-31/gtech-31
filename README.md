@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - osTicket Deployment on Azure VM – Step-by-Step Tutorial (https://github.com/gtech-31/prerequisites-Install)
+  - Step-by-Step Tutorial osTicket Deployment on Microsoft Azure using a VM (https://github.com/gtech-31/prerequisites-Install)
   
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com//configure-ad)
