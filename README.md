@@ -3,9 +3,8 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/gtech-31/prerequisites-Install)
-  - [osTicket: Post-Installation Configuration](https://github.com//post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com//ticket-lifecycle)
+  - osTicket Deployment on Azure VM – Step-by-Step Tutorial (https://github.com/gtech-31/prerequisites-Install)
+  
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com//configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//azure-network-protocols)
